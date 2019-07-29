@@ -1,0 +1,5 @@
+(function() {
+ 
+    $('#gishItems img').draggable();
+ 
+ })();
